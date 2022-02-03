@@ -1,3 +1,2 @@
-# Thank you for watching video. You can easily download website and use it.
+# Its my website
 
-### Source: startbootstrap.com
